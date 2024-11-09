@@ -40,7 +40,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/your-org/popup-city-guide/tree/main/',
+            'https://github.com/2manslkh/popupcity-docs/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -89,7 +89,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/your-org/popup-city-guide',
+              href: 'https://github.com/2manslkh/popupcity-docs',
             },
           ],
         },
